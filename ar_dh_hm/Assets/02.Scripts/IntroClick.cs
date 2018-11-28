@@ -26,6 +26,6 @@ public class IntroClick : MonoBehaviour {
 
     void NextSceneCall()
     {
-        SceneManager.LoadScene("mainScene");
+        SceneManager.LoadScene("S_2_GameStart");
     }
 }
