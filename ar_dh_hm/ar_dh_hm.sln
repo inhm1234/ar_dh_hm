@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ar_dh_hm", "ar_dh_hm.csproj", "{17FC2A2F-F6D5-F007-3827-DF69B2F8AC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ar_dh_hm.Editor", "ar_dh_hm.Editor.csproj", "{49DBEBDA-AE54-40ED-830C-7834DFDD0D0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17FC2A2F-F6D5-F007-3827-DF69B2F8AC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FC2A2F-F6D5-F007-3827-DF69B2F8AC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FC2A2F-F6D5-F007-3827-DF69B2F8AC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FC2A2F-F6D5-F007-3827-DF69B2F8AC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49DBEBDA-AE54-40ED-830C-7834DFDD0D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DBEBDA-AE54-40ED-830C-7834DFDD0D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DBEBDA-AE54-40ED-830C-7834DFDD0D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DBEBDA-AE54-40ED-830C-7834DFDD0D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
